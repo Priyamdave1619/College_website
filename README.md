@@ -7,7 +7,7 @@
 <h1 align="center">Greenfield Institute — College Website</h1>
 
 <p align="center">
-  Official website of <strong>Greenfield Institute of Computer Education and Applied Sciences (GICEAS)</strong>,
+  Official website of <strong>Greenfield Institute</strong>,
   a constituent college of <strong>Meridian State University</strong>, Surat.
 </p>
 

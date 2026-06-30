@@ -56,39 +56,26 @@ This repository contains the source code for the public-facing website of **Gree
 > Add your own screenshots below. Replace each placeholder image path with a real screenshot saved inside a `screenshots/` folder at the project root (e.g. `screenshots/home.png`).
 
 ### Home Page
-<p align="center">
-  <img src="screenshots/home.png" alt="Home page screenshot" width="800" />
-</p>
+<img width="1454" height="832" alt="Screenshot 2026-06-30 at 8 42 39 PM" src="https://github.com/user-attachments/assets/8a029b70-eb26-48f3-be39-0b1f91d8f5db" />
+
 
 ### About Page
-<p align="center">
-  <img src="screenshots/about.png" alt="About page screenshot" width="800" />
-</p>
+<img width="1453" height="830" alt="Screenshot 2026-06-30 at 8 43 24 PM" src="https://github.com/user-attachments/assets/c1a0be7d-c73b-488f-b39f-65f53458e73c" />
+
 
 ### Academics Page
-<p align="center">
-  <img src="screenshots/academics.png" alt="Academics page screenshot" width="800" />
-</p>
+<img width="1456" height="836" alt="Screenshot 2026-06-30 at 8 44 08 PM" src="https://github.com/user-attachments/assets/fcbbd49a-226d-49d6-b3fc-6028315813f1" />
 
 ### Admissions Page
-<p align="center">
-  <img src="screenshots/admissions.png" alt="Admissions page screenshot" width="800" />
-</p>
+<img width="1452" height="832" alt="Screenshot 2026-06-30 at 8 44 53 PM" src="https://github.com/user-attachments/assets/8d1faf00-ec9e-452a-8332-d9bd4099ee1e" />
 
 ### Gallery Page
-<p align="center">
-  <img src="screenshots/gallery.png" alt="Gallery page screenshot" width="800" />
-</p>
+<img width="1454" height="825" alt="Screenshot 2026-06-30 at 8 45 33 PM" src="https://github.com/user-attachments/assets/f7847c46-6bd8-4c4b-b351-bb61bce6b869" />
 
-### Contact Page
-<p align="center">
-  <img src="screenshots/contact.png" alt="Contact page screenshot" width="800" />
-</p>
 
 ### Mobile View
-<p align="center">
-  <img src="screenshots/mobile-home.png" alt="Mobile home page screenshot" width="300" />
-</p>
+<img width="316" height="670" alt="Screenshot 2026-06-30 at 8 46 29 PM" src="https://github.com/user-attachments/assets/9521132d-8e5b-4a50-b3cc-e995cebf0dc5" />
+
 
 **How to capture your own screenshots:**
 1. Run the site locally with `npm run dev` and open `http://localhost:3000`.
